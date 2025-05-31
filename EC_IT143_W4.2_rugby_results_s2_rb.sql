@@ -1,0 +1,1 @@
+-- The answer is: Combine the home_team and away_team columns, and count how many times each team appears

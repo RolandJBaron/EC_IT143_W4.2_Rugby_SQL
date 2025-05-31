@@ -1,0 +1,1 @@
+-- Question: How many matches has each team played, whether they were the home or away team?
